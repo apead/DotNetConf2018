@@ -5,7 +5,7 @@ AI and machine Learning for Every .NET Developer @JHBMSDUG
 
 Getting Started
 
-dot.net/ml 
+http://dot.net/ml 
 
 http://github.com/dotnet/machinelearning-samples
 

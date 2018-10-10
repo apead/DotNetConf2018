@@ -1,6 +1,4 @@
-"# DotNetConf2018" 
-
-AI and machine Learning for Every .NET Developer @JHBMSDUG
+# AI and machine Learning for Every .NET Developer @JHBMSDUG
 
 
 Getting Started
